@@ -86,6 +86,7 @@ header#cabecalho h2 {
 }
 
 nav#menu {
+    width: 1280px;
     display: block;
 }
 
