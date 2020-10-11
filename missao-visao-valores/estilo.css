@@ -1,0 +1,85 @@
+body {
+    background-color: rgb(98, 176, 240);
+    color: black;
+}
+
+div#interface {
+    width: 1320px;
+    background-color: white;
+    margin: 10px auto 0px auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.473);
+    padding: 10px 10px 10px 10px;
+}
+
+header#cabecalho img#logo {
+    position: absolute;
+    left: 800px;
+    top: -40px;
+}
+
+header#cabecalho {
+    border-bottom: 2px black solid;
+    height: 220px;
+    /* background: url("imagens/logo\ final.png"); */
+}
+
+header#cabecalho h1 {
+    /* font-family: Arial, sans-serif; */
+    font-size:  60px; 
+    color: rgb(85, 133, 14);
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.438);
+    padding: 0px;
+    margin-top: 35px;
+    margin-bottom: 0px;
+}
+
+header#cabecalho h2 {
+    font-size: 25px;
+    color: rgb(85, 133, 14);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.438);
+    padding: 0px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin-left: 5px;
+}
+
+nav#menu {
+    display: block;
+}
+
+nav#menu ul {
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: -20px;
+    left: 600px;
+}
+
+nav#menu li {
+    display: inline-block;
+    background-color: yellowgreen;
+    padding: 10px;
+    margin: 2px;
+    transition: background-color 1s;
+}
+
+nav#menu li:hover {
+    background-color: rgb(38, 116, 44);
+
+}
+
+nav#menu a {
+    color: black;
+    text-decoration: none;
+}
+
+nav#menu a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+div#text {
+    margin: 120px 5px 100px -10px;
+    background-color: white;
+    padding: 10px;
+}
