@@ -29,8 +29,9 @@ div#fotosddl img#foto1 {
 }
 
 div#fotosddl {
+    width: 1280px;
     padding: 10px;
-    margin: 45px;
+    margin: 20px;
     background-color: rgb(38, 116, 55);
     border-radius: 20px;
 }
