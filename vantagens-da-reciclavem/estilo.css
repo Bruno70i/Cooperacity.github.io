@@ -28,7 +28,7 @@ header#cabecalho img#foto1 {
 }
 
 div#fotosddl {
-    margin: 80px 10px 10px -10px;
+    margin: 80px 0px;
     background-color: rgb(23, 47, 184);
     border-radius: 20px;
 }
