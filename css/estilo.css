@@ -1,0 +1,153 @@
+body {
+    background: rgb(44, 131, 245);
+    font: normal 15pt Arial;
+}
+
+h1#titu1 {
+    color: rgb(0, 240, 92);
+    background: rgb(17, 90, 3);
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.616);
+    text-align: center;
+    padding: 20px;
+    margin-top: 0px;
+}
+
+p#intro {
+    background: rgb(255, 255, 255);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.699);
+    border-radius: 15px;
+    padding: 10px;
+    width: 500px;
+}
+
+div#logo {
+    margin-top: 1px;
+    margin: 20px;
+}
+
+
+input#textn1 {
+    background: rgb(198, 252, 191);
+    margin: 5px;
+    border-radius: 10px;
+    padding:  5px;
+}
+
+input#textdep {
+    background: rgb(198, 252, 191);
+    border-radius: 10px;
+    padding:  5px;
+}
+
+input#mesestrab {
+    background: rgb(198, 252, 191);
+    border-radius: 10px;
+    padding:  5px;
+}
+
+input#texthorastrab {
+    background: rgb(198, 252, 191);
+    border-radius: 10px;
+    padding:  5px;
+}
+
+p#p1 {
+    margin-top: 25px;
+    background: white;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+p#p2 {
+    margin-top: 1px;
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    width: 100px;
+    text-align: center;
+}
+
+p#p3 {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);
+    width: 500px;
+
+}
+
+div#separador {
+    color: rgb(255, 255, 255);
+    background: rgb(2, 51, 31);
+    padding: 10px;
+    border-radius: 15px;
+    width: 100px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+
+div#res {
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    width: 500px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+div#rdivisao {
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    width: 500px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+div#FGTS {
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    width: 500px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+div#IRRF {
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    width: 500px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+div#SALA13 { 
+
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    width: 500px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+div#HORAEXTRA {
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    width: 500px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
