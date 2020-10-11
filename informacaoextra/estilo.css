@@ -4,9 +4,9 @@ body {
 }
 
 div#interface {
-    width: 1310px;
+    width: 1280px;
     background-color: white;
-    margin: 10px auto 0px auto;
+    margin: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.473);
     padding: 10px 10px 10px 10px;
 }
@@ -14,7 +14,7 @@ div#interface {
 header#cabecalho img#logo {
     position: absolute;
     left: 710px;
-    top: -20px;
+    top: -60px;
 }
 
 /* ------------ fotos para vedas -------- */
@@ -85,15 +85,18 @@ header#cabecalho h2 {
 }
 
 nav#menu {
+    width: 1280px;
     display: block;
 }
 
 nav#menu ul {
+    width: 1100px;
+    font-size: 13px;
     list-style: none;
     text-transform: uppercase;
     position: absolute;
-    top: -20px;
-    left: 600px;
+    top: -4px;
+    left: 247px;
 }
 
 nav#menu li {
