@@ -14,8 +14,9 @@ div#interface {
 header#cabecalho img#logo {
     position: absolute;
     left: 710px;
-    top: -60px;
+    top: -20px;
 }
+
 
 header#cabecalho {
     border-bottom: 2px black solid;
@@ -29,7 +30,7 @@ header#cabecalho h1 {
     color: rgb(85, 133, 14);
     text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.438);
     padding: 0px;
-    margin-top: 35px;
+    margin-top: 75px;
     margin-bottom: 0px;
 }
 
